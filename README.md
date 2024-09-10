@@ -1,2 +1,3 @@
 Start of a journey!
 Strangely, the first "Start of a journey!" didn't commit. Trying to commit this line.
+Working on a separate branch called bugfix/readme. This whole line #3 is being coded within this new branch! Let's see if it works...
